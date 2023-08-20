@@ -1,0 +1,29 @@
+P1:Timetable Management System for an
+Academic Institution
+Build status:
+Writes Class timetable,Faculty Time table and Lab time Tables in a text file.
+
+Code:
+C programming is used throughout the project.
+
+Illustration:
+
+1.compile and run the program in terminal.
+
+2.Inputs are given by following order:
+    2.1 Number of sections in a particular year/university should be given.
+	 2.2 Number of subjects ,(theory/practical) should be mentioned.
+	 2.3 Lab cum theory subjects must be given first.
+	 2.4 High credit subjects/subject with most classes should be given.
+	 2.5 Remaining subjects are given next.
+	 2.6 Faculty name is given along with the subjects.
+	 2.7 Number of hours for each subject/labs must be given.
+	 2.8 Make sure the total given number of hours is less than 30.
+	 2.9 Space must not be given in any names.
+
+3.Open the text file Project_Team M_Output.txt
+
+4.You can see the class timetables,followed by lab time tables and finally
+faculty timetables.
+
+

@@ -1,0 +1,112 @@
+-----------------------------------------------------------
+                    1-CSE-A Class Timetable                 
+-----------------------------------------------------------
+Maths     Physics   Computer  Tamil     Phy&Chem  Phy&Chem  
+English   Maths     Tamil     Computer  Phy&Chem  Phy&Chem  
+Chemistry English   Maths     Physics   Tamil     Tamil     
+Computer  Chemistry Maths     English   Library   Physics   
+English   Mentor    Physics   Tamil     Chemistry Maths     
+-----------------------------------------------------------
+                    1-CSE-B Class Timetable                 
+-----------------------------------------------------------
+English   Library   Chemistry Mentor    Maths     Physics   
+Tamil     Maths     English   Physics   Chemistry Computer  
+Maths     Physics   Tamil     English   Phy&Chem  Phy&Chem  
+Maths     Physics   Tamil     Computer  Phy&Chem  Phy&Chem  
+Maths     Chemistry English   Computer  Tamil     Tamil     
+-----------------------------------------------------------
+                    Language Lab Timetable                 
+-----------------------------------------------------------
+                                     
+                                                            
+                                        1-CSE-A   1-CSE-A   
+                                                            
+                                        1-CSE-B   1-CSE-B   
+-----------------------------------------------------------
+                    Science Lab Timetable                 
+-----------------------------------------------------------
+                                        1-CSE-A   1-CSE-A   
+                                        1-CSE-A   1-CSE-A   
+                                        1-CSE-B   1-CSE-B   
+                                        1-CSE-B   1-CSE-B   
+                                                            
+-----------------------------------------------------------
+                 Staff Gayathri's Timetable           
+-----------------------------------------------------------
+                              1-CSE-A                       
+                    1-CSE-A                                 
+                                        1-CSE-A   1-CSE-A   
+                                                            
+                              1-CSE-A                       
+-----------------------------------------------------------
+                 Staff Veni's Timetable           
+-----------------------------------------------------------
+1-CSE-B                                                     
+1-CSE-A             1-CSE-B                                 
+          1-CSE-A             1-CSE-B                       
+                              1-CSE-A                       
+1-CSE-A             1-CSE-B                                 
+-----------------------------------------------------------
+                 Staff Anandh's Timetable           
+-----------------------------------------------------------
+          1-CSE-A                                 1-CSE-B   
+                              1-CSE-B                       
+          1-CSE-B             1-CSE-A                       
+          1-CSE-B                                 1-CSE-A   
+                    1-CSE-A                                 
+-----------------------------------------------------------
+                 Staff Uma's Timetable           
+-----------------------------------------------------------
+1-CSE-A                                                     
+          1-CSE-A                                           
+                    1-CSE-A                                 
+                    1-CSE-A                                 
+                                                  1-CSE-A   
+-----------------------------------------------------------
+                 Staff Siva's Timetable           
+-----------------------------------------------------------
+                                                            
+                                                            
+1-CSE-A                                                     
+          1-CSE-A                                           
+                                        1-CSE-A             
+-----------------------------------------------------------
+                 Staff Boopathi's Timetable           
+-----------------------------------------------------------
+                    1-CSE-A                                 
+                              1-CSE-A             1-CSE-B   
+                                                            
+1-CSE-A                       1-CSE-B                       
+                              1-CSE-B                       
+-----------------------------------------------------------
+                 Staff Suresh's Timetable           
+-----------------------------------------------------------
+                                        1-CSE-A   1-CSE-A   
+                                        1-CSE-A   1-CSE-A   
+                                        1-CSE-B   1-CSE-B   
+                                        1-CSE-B   1-CSE-B   
+                                                            
+-----------------------------------------------------------
+                 Staff Umarani's Timetable           
+-----------------------------------------------------------
+                                                            
+1-CSE-B                                                     
+                    1-CSE-B                                 
+                    1-CSE-B                                 
+                                        1-CSE-B   1-CSE-B   
+-----------------------------------------------------------
+                 Staff Yukesh's Timetable           
+-----------------------------------------------------------
+                                        1-CSE-B             
+          1-CSE-B                                           
+1-CSE-B                                                     
+1-CSE-B                                                     
+1-CSE-B                                                     
+-----------------------------------------------------------
+                 Staff Murugesh's Timetable           
+-----------------------------------------------------------
+                    1-CSE-B                                 
+                                        1-CSE-B             
+                                                            
+                                                            
+          1-CSE-B                                           
